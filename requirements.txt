@@ -26,3 +26,6 @@ sqlparse==0.4.2
 tzdata==2022.1
 uritemplate==4.1.1
 urllib3==1.26.10
+django-allauth==0.54.0
+django-bootstrap-v5==1.0.11
+django-sslserver===0.22
